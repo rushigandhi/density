@@ -38,6 +38,6 @@ npm run
 
 [https://www.youtube.com/watch?v=u7bR5Q-RWdE](https://www.youtube.com/watch?v=u7bR5Q-RWdE)
 
-[![FrameAr Demo Video](http://img.youtube.com/vi/u7bR5Q-RWdE/0.jpg)](https://www.youtube.com/watch?v=u7bR5Q-RWdE)
+[![Density Demo Video](http://img.youtube.com/vi/u7bR5Q-RWdE/0.jpg)](https://www.youtube.com/watch?v=u7bR5Q-RWdE)
 
 [Check out our presentation here!](https://raw.githubusercontent.com/rushigandhi/density/master/Assets/DensityReveal.pptx)
