@@ -16,7 +16,7 @@ The implications for these metrics and data are huge, as detailed in the present
 
 ## Running Project
 
-Since this is a hardware hack with an integrated web app, it is not possible to run the project without having the hardware. A demo can be found [here](https://www.youtube.com/watch?v=u7bR5Q-RWdE). If the hardware is present, this program can be run by:
+Since this is a hardware hack with an integrated web app, it is not possible to run the project without having the hardware. If the hardware is present, this program can be run by:
 
 ```installation:
 git clone https://github.com/adichha/wifi-triangularization.git
